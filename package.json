@@ -1,0 +1,38 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "immutable": "3.8.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "2.1.8",
+    "redaktilo-core": "0.4.0",
+    "redaktilo-plugin-bold": "0.3.0",
+    "redaktilo-plugin-heading": "0.3.0",
+    "redaktilo-plugin-italic": "0.3.0",
+    "redaktilo-plugin-paragraph": "0.4.1",
+    "redaktilo-plugin-title": "0.4.1",
+    "redaktilo-toolbar": "0.4.0",
+    "slate": "0.45.1",
+    "slate-react": "0.21.21"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
